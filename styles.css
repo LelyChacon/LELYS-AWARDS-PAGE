@@ -1,0 +1,61 @@
+body {
+    background-image: url(https://media.tenor.com/images/9091de787a2f733a271b5809887cb703/tenor.gif);
+    text-align: center;
+
+}
+
+img {
+    width:
+        400px;
+
+}
+
+h1 {
+    color: gold;
+}
+
+.artist {
+    color: blue;
+    font-family: 'Chilanka', cursive;
+}
+
+.dance {
+    color: orange;
+    font-family: 'Zhi Mang Xing', cursive;
+}
+
+.food {
+    color: yellow;
+    font-family: 'Handlee', cursive;
+}
+
+.sport {
+    color: purple;
+    font-family: 'Righteous', cursive;
+}
+
+h3 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 69px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    border-radius: 50px;
+    border: groove white 10px;
+
+}
